@@ -1,0 +1,9 @@
+PartnerName,PartnerType,Industry,Region,StrategicFit,TechnicalFit,MarketOverlap,RevenuePotential,IntegrationPotential,Stage,Pipeline,Revenue
+CloudNova,Technology Partner,Cloud AI,Australia,9,8,9,8,9,Discovery,180000,0
+DataSphere,Data Partner,Data Analytics,Australia,8,9,8,8,8,Qualified,250000,50000
+SecureAI,Technology Partner,Cybersecurity,APAC,9,8,7,9,8,Negotiation,400000,120000
+FinConnect,Integration Partner,FinTech,Australia,8,7,9,9,7,Active,500000,220000
+AutoFlow,Technology Partner,Automation,APAC,7,9,8,7,9,Active,320000,180000
+InsightWorks,Consulting Partner,AI Consulting,Australia,8,8,7,8,7,Identified,100000,0
+NexaCloud,Cloud Partner,Cloud Computing,APAC,9,9,8,9,9,Qualified,450000,0
+DigitalBridge,Implementation Partner,Digital Transformation,Australia,7,8,8,7,8,Discovery,200000,30000

@@ -1,0 +1,40 @@
+Partner: FinConnect
+Partner Type: Integration Partner
+Partnership Stage: Active
+
+Meeting Type: Quarterly Partnership Review
+
+Stakeholders:
+Sarah Mitchell – Head of Partnerships
+Daniel Lee – Technical Integration Lead
+
+Current Situation:
+FinConnect is an active integration partner. The partnership is generating revenue and has a strong pipeline of potential opportunities.
+
+Recent Discussion:
+FinConnect is interested in expanding the partnership into additional enterprise accounts. The team discussed opportunities to develop joint go-to-market activities and improve lead sharing between both organisations.
+
+Key Opportunity:
+FinConnect identified three enterprise prospects where a joint solution could be positioned. The partner would like support with technical demonstrations and joint customer meetings.
+
+Integration Status:
+The existing integration is operational. However, FinConnect has requested improvements to API documentation before expanding the integration to additional use cases.
+
+Current Blocker:
+The technical team has raised concerns about incomplete API documentation. This could slow down expansion into new customer opportunities.
+
+Partner Sentiment:
+Positive. FinConnect wants to grow the relationship but expects stronger technical enablement.
+
+Next Actions:
+1. Arrange a technical workshop with the FinConnect integration team.
+2. Review and improve API documentation.
+3. Identify the three joint enterprise opportunities.
+4. Develop a joint account plan.
+5. Schedule the next partnership review.
+
+Follow-up Priority:
+High
+
+Next Review:
+Within 2 weeks
